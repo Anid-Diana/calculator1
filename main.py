@@ -4,4 +4,5 @@ a=int(input("Enter first number:"))
 b=int(input("Enter second number:"))
 if o =="+":
     print("Answer: ", a+b)
-elif 
+elif o=="-":
+    print("Answer: ", a -b)
